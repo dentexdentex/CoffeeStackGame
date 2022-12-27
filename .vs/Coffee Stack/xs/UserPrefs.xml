@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{032C22D3-D971-C78D-30E9-0662AE00F774}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Force.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Collision.cs" Line="12" Column="73" />
+      <File FileName="Assets/Scripts/Movement.cs" Line="26" Column="45" />
+      <File FileName="Assets/Scripts/Rush.cs" Line="10" Column="5" />
+      <File FileName="Assets/Scripts/Force.cs" Line="10" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6eb26686-9d78-48cc-9152-078b357f6960" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
